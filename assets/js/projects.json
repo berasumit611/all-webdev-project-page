@@ -2,22 +2,38 @@
   {
     "name": "Portfolio",
     "desc": "Personal developer portfolio using html5, css3, javascript.",
-    "meta": "portfolio"
+    "image": "portfolio",
+    "live":"https://sumit-bera-portfolio.netlify.app/",
+    "code":"https://github.com/berasumit611/Sumit-Bera-Portfolio"
+
   },
   {
     "name": "ToDo Website",
     "desc": "To Do website with all functionality build with javascript.",
-    "meta": "todo"
+    "image": "todo",
+    "live":"",
+    "code":""
   },
   {
     "name": "Length Converter",
     "desc": "length converter build with javascript.",
-    "meta": "length-converter"
+    "image": "length-converter",
+    "live":"",
+    "code":""
   },
   {
     "name": "Calculator",
     "desc": "Calculator with basic arithmatic functionality build with javascript",
-    "meta": "calculator"
+    "image": "calculator",
+    "live":"",
+    "code":""
+  },
+  {
+    "name": "Theme toggle",
+    "desc": "toggle theme using javascript dom manupulation.",
+    "image": "theme-toggle",
+    "live":"",
+    "code":""
   }
   
  
